@@ -39,3 +39,8 @@ Power BI: Data visualization.
 
 This project not only provided AtliQ Hardware with actionable insights to improve sales and customer satisfaction but also demonstrated the power of data storytelling. It highlighted the importance of aligning analytics with business needs to drive results.
 
+# Author
+👤 Sai Harshith Reddy Gaddamidhi
+🔗 LinkedIn Profile : www.linkedin.com/in/gaddamidhi
+📧 reddysaiharshith3131@gmail.com
+
